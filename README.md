@@ -68,7 +68,7 @@ Frontend Web Developer | JavaScript Learner
 
 ## 🌐 Live Demo
 
-👉 https://itshubham4u.github.io/todo-list/
+👉 https://github.com/ShubhXCode24/To-Do-List
 
 ---
 
